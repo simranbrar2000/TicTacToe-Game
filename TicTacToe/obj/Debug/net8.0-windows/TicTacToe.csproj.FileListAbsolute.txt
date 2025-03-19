@@ -1,0 +1,16 @@
+C:\2101(Rapid Application Development)\TicTacToe\TicTacToe\bin\Debug\net8.0-windows\TicTacToe.exe
+C:\2101(Rapid Application Development)\TicTacToe\TicTacToe\bin\Debug\net8.0-windows\TicTacToe.deps.json
+C:\2101(Rapid Application Development)\TicTacToe\TicTacToe\bin\Debug\net8.0-windows\TicTacToe.runtimeconfig.json
+C:\2101(Rapid Application Development)\TicTacToe\TicTacToe\bin\Debug\net8.0-windows\TicTacToe.dll
+C:\2101(Rapid Application Development)\TicTacToe\TicTacToe\bin\Debug\net8.0-windows\TicTacToe.pdb
+C:\2101(Rapid Application Development)\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.Form1.resources
+C:\2101(Rapid Application Development)\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.csproj.GenerateResource.cache
+C:\2101(Rapid Application Development)\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\2101(Rapid Application Development)\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.AssemblyInfoInputs.cache
+C:\2101(Rapid Application Development)\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.AssemblyInfo.cs
+C:\2101(Rapid Application Development)\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.csproj.CoreCompileInputs.cache
+C:\2101(Rapid Application Development)\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.dll
+C:\2101(Rapid Application Development)\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\refint\TicTacToe.dll
+C:\2101(Rapid Application Development)\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.pdb
+C:\2101(Rapid Application Development)\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\TicTacToe.genruntimeconfig.cache
+C:\2101(Rapid Application Development)\TicTacToe\TicTacToe\obj\Debug\net8.0-windows\ref\TicTacToe.dll
